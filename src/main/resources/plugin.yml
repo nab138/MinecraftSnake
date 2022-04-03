@@ -1,0 +1,11 @@
+name: MinecraftSnake
+version: '${project.version}'
+main: tk.nabdev.minecraftsnake.MinecraftSnake
+api-version: 1.18
+prefix: Snake
+authors: [ nab138 ]
+description: a
+commands:
+  snake:
+    description: Play Snake
+    usage: /<command>
